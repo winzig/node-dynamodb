@@ -1,6 +1,6 @@
 {
   "name": "dynamodb",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "description": "Simple DynamoDB Library for Node.js",
   "keywords": ["dynamo", "node", "db", "aws", "amazon"],
   "homepage": "https://github.com/teleportd/node-dynamodb",
@@ -20,7 +20,7 @@
                      "Anthony Moi",
                      "Dmitri Bouianov" ],
   "dependencies": {
-    "aws-sdk": "1.5.x",
+    "aws-sdk": "2.0.x",
     "fwk": "0.1.x"
   },
   "devDependencies": {
